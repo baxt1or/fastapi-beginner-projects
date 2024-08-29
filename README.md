@@ -4,7 +4,7 @@
 
  This project demonstrates the creation of a basic CRUD (Create, Read, Update, Delete) REST API using FastAPI with Python. FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
 
-# Key Features:
+### Key Features:
 
 CRUD Operations: Implement basic CRUD operations for managing data, providing endpoints to create, retrieve, update, and delete resources.
 
@@ -20,7 +20,7 @@ Interactive API Documentation: Automatically generate interactive API documentat
 
 Error Handling: Implement custom error handling for robust and user-friendly API responses.
 
-# Learning Objectives:
+### Learning Objectives:
 
 Understand the basics of building RESTful APIs using FastAPI.
 
@@ -32,6 +32,6 @@ Explore database interactions using an ORM in the context of a FastAPI applicati
 
 Gain insights into implementing asynchronous programming in a web framework.
 
-# Getting Started:
+### Getting Started:
 
 This repository provides a step-by-step guide to setting up the FastAPI application, including dependencies, environment setup, and running the application locally.
